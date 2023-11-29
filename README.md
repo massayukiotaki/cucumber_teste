@@ -10,5 +10,10 @@ Exemplo de situação: Cliente especial com saldo negativo.<br>
 <p>Foi criado um javadoc para a documentação e também foram colocadas tags orientadando o projeto.</p>
 <h1>Teste JUnit</h1>
 <p>Ao realizar teste unitário de Java, foi possível obter resultados e apontamento de erros sobre o projeto.</p>
-<h2>Imagens do resultado</h2>
-
+<h2>Imagens do resultado JUnit</h2>
+<img src="result_console_JUnit.png" >
+<img src="result_console_JUnit2.png">
+<h1>BDD - Behavior Driver Development</h1>
+<p>BDD, ou Desenvolvimento Orientado a Comportamento (em inglês, Behavior-Driven Development), é uma abordagem de desenvolvimento de software que se concentra na colaboração entre diferentes partes interessadas, como desenvolvedores, testadores e não técnicos, para garantir que o software seja construído com base no comportamento desejado.</p>
+<h1>Ambiente de teste</h1>
+<p>Para o desenvolvimento do projeto foi necessária a utilização do Cucumber (Cucumber é usado para descrever o valor do negócio em uma linguagem natural, por isso permite que equipes de desenvolvimento de software descrevam como o software deve se comportar em texto simples, escrevendo especificações através de exemplos).</p>
