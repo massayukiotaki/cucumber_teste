@@ -7,4 +7,8 @@ Exemplo de situação: Cliente especial com saldo negativo.<br>
 (Situação só é possível por ser um cliente especial).  
 </p>
 <h1>Documentação</h1>
-<p>Foi cria um javadoc para a documentação e também foram colocadas tags orientadando o projeto.</p>
+<p>Foi criado um javadoc para a documentação e também foram colocadas tags orientadando o projeto.</p>
+<h1>Teste JUnit</h1>
+<p>Ao realizar teste unitário de Java, foi possível obter resultados e apontamento de erros sobre o projeto.</p>
+<h2>Imagens do resultado</h2>
+
