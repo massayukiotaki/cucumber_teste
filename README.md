@@ -24,3 +24,4 @@ Exemplo de situação: Cliente especial com saldo negativo.<br>
 <img src="conta_classe.png" >
 <h1>Classe Runner</h1>
 <p>Implementação de uma classe para que o JUnit fosse executado sem problemas, através do Cucumber.</p>
+<img src="classe_runner.png" >
