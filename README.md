@@ -21,3 +21,6 @@ Exemplo de situação: Cliente especial com saldo negativo.<br>
 <img src="ambiente_teste.png">
 <h1>Classe Conta</h1>
 <p>Foi necessária a criação de uma classe conta para realizar as funcionalidades da simulação de antendimento do banco</p>
+<img src="conta_classe.png" >
+<h1>Classe Runner</h1>
+<p>Implementação de uma classe para que o JUnit fosse executado sem problemas, através do Cucumber.</p>
